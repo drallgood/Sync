@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .target(name: "Sync",
                 dependencies: ["CoreData"],
-                path: "Sources"
+                path: "Source"
         ),
 
     ]
